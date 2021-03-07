@@ -1,0 +1,9 @@
+D:\visual studio programs\simple\simple\Demos\Demos\bin\Debug\Demos.exe
+D:\visual studio programs\simple\simple\Demos\Demos\bin\Debug\Demos.pdb
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.CheckBox_Demo.resources
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.Radio_Button_Demo.resources
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.Properties.Resources.resources
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.csproj.GenerateResource.Cache
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.exe
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.pdb
+D:\visual studio programs\simple\simple\Demos\Demos\obj\x86\Debug\Demos.MDI.resources
